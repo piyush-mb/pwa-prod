@@ -1,7 +1,6 @@
 {
     "short_name": "App-PWA",
     "name": "PWA-APP",
-    "start_url": "/pp/",
     "display": "standalone",
     "gcm_sender_id": "103953800507"
   }
